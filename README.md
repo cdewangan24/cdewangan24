@@ -1,6 +1,6 @@
 ## 👋 Welcome to My GitHub!
 
-Hi, I’m Chesta Dewangan
+Hi, I’m Chesta Dewangan/
 Computer Science graduate | UI/UX & Web Developer | Human-Centered Design enthusiast
 
 - 🔗 **Portfolio:** https://chestadewangan-portfolio.netlify.app
